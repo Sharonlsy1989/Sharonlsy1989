@@ -21,9 +21,11 @@
 - Travelling
 - eating
 - coffee
-
-
-
-- 
+ </td>
+    <td width="25%">
+      <img src="1014.jpg"width="100%">      
+    </td>
+  </tr>
+</table>
 
 
