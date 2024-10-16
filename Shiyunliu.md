@@ -23,7 +23,7 @@
 - coffee
  </td>
     <td width="25%">
-      <img src="1014.jpg"width="100%">      
+      <img src="1014.jpg"width="50%">      
     </td>
   </tr>
 </table>
